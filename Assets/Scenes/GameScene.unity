@@ -1677,7 +1677,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 1841123166}
   distance: 20
-  rotationSpeed: 270
+  rotationSpeed: 90
   minVerticalAngle: 10
   maxVerticalAngle: 70
   focusRadius: 2
